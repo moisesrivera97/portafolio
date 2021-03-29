@@ -9,6 +9,9 @@ footer{
 #background-color{
     background-color: #94ff94;
 }
+.font{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
 .image {
     opacity: 1;
     display: block;
